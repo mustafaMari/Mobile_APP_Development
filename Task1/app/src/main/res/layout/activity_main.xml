@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/hello_Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+
+        android:text="@string/greetings"
+        android:textAlignment="center"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/farewell_Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/farewell" />
+
+    <Button
+        android:id="@+id/needSpace_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/needSpace"
+
+        />
+
+    <Button
+        android:id="@+id/justification_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/justification"
+        android:onClick="openActivityNeedSpaceButton"/>
+
+    <Button
+        android:id="@+id/goToAc3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openActivityAnother"
+        android:text="@string/goAc3" />
+
+</LinearLayout>

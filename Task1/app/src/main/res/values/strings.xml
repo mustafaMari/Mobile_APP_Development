@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstLab</string>
+    <string name="greetings">Greetings</string>
+    <string name="farewell">So long dear!</string>
+    <string name="needSpace">We should take a break</string>
+    <string name="justification">WE WERE ON A BREAK</string>
+    <string name="pnh">Push And Hold</string>
+    <string name="back">Back</string>
+    <string name="goAc3">Go to Another Activity</string>
+</resources>
