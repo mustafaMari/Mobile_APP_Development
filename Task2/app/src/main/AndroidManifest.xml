@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Task2">
         <activity
+            android:name=".CustomList"
+            android:exported="false" />
+        <activity
+            android:name=".GridList"
+            android:exported="false" />
+        <activity
+            android:name=".MultiChoiceList"
+            android:exported="false" />
+        <activity
+            android:name=".SimpleList"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

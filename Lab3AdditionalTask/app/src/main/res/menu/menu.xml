@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/option1"
+        android:title="Option One"/>
+    <item android:id="@+id/option2"
+        android:title="Option Two" />
+    <item android:id="@+id/option3"
+        android:title="Option Three" />
+    <item android:id="@+id/submenu"
+        android:title="Submenu">
+        <menu>
+            <item android:id="@+id/Hide_Title"
+            android:title="Hide Title"
+                android:checkable="true"/>
+            <item android:id="@+id/Hide_Subtitle"
+                android:title="Hide Subtitle"
+                android:checkable="true"/>
+        </menu>
+    </item>
+    <item android:id="@+id/nextActivity"
+        android:title="Next Action"/>
+</menu>

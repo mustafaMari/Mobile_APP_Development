@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mustafa/OneDrive/Documents/GitHub/Mobile_APP_Development/Lab41/app/src/main/res/layout-land/fragment_second_dynamic.xml" value="0.1" />
+        <entry key="..\:/Users/Mustafa/OneDrive/Documents/GitHub/Mobile_APP_Development/Lab41/app/src/main/res/layout/activity_main.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Mustafa/OneDrive/Documents/GitHub/Mobile_APP_Development/Lab41/app/src/main/res/layout/activity_tabbed.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/Mustafa/OneDrive/Documents/GitHub/Mobile_APP_Development/Lab41/app/src/main/res/layout/fragment_dynamic.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Mustafa/OneDrive/Documents/GitHub/Mobile_APP_Development/Lab41/app/src/main/res/layout/fragment_second_dynamic.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Mustafa/OneDrive/Documents/GitHub/Mobile_APP_Development/Lab41/app/src/main/res/layout/fragment_static.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Mustafa/OneDrive/Documents/GitHub/Mobile_APP_Development/Lab41/app/src/main/res/layout/fragment_tabbed.xml" value="0.15081521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

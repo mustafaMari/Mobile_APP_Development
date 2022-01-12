@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/item1"
+        android:title="First Item XML" />
+    <item android:id="@+id/item2"
+        android:title="Second Item XML" />
+    <item android:id="@+id/item3"
+        android:title="Third Item XML" />
+    <item android:id="@+id/submenu"
+        android:title="SubMenu Item XML">
+        <menu>
+            <item android:id="@+id/subItem1"
+                android:title="First SubItem XML" />
+            <item android:id="@+id/subItem2"
+                android:title="Second SubItem XML" />
+        </menu>
+    </item>
+
+
+</menu>
