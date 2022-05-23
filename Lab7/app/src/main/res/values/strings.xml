@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="location">Location</string>
+    <string name="sensor">Sensor</string>
+    <string name="light_sensor">Light sensor</string>
+    <string name="acceleration_sensor">Acceleration Sensor</string>
+    <string name="get_all_sensors">Get All Sensors</string>
+    <string name="compass">Compass</string>
+    <string name="reset">Reset</string>
+</resources>
